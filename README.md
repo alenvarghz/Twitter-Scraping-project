@@ -27,5 +27,10 @@ After scraping, the data needs to be displayed in the page and need a button to 
 Results: You have to build a solution that should be able to scrape the twitter data and store that in the database and allow the user 
 to download the data with multiple data formats.
 
+Streamlit
 
+Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. In just a few minutes you can build and deploy powerful data apps. 
+
+Why snscrape?
+Why are we even talking just about snscrape? There should be more options to do the job. Of course, there are. (or rather there were). And below are the problems with other tools or packages which leads us to snscrape
 
